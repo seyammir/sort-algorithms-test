@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-HMEH4CO
+Date of Test: 2025-11-24 19:19:12
+Bubble Sort Time: 3.795391 seconds
+Quick Sort Time: 0.010369 seconds
+
