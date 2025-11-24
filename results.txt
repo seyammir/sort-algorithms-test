@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-7EO8PSE
+Date of Test: 2025-11-24 19:01:40
+Bubble Sort Time: 3.931587 seconds
+Quick Sort Time: 0.010119 seconds
+
